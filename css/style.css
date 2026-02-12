@@ -87,7 +87,7 @@ section {
 }
 
 input::placeholder {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 400;
   color: #f5f5f5;
 }
@@ -112,7 +112,7 @@ input::placeholder {
 /* Top Banner */
 
 .banner-container {
-  background: #1D1D1D;
+  background: #1d1d1d;
 }
 
 .banner {
@@ -168,7 +168,6 @@ input::placeholder {
   height: 500px;
   width: 100%;
 }
-
 
 .play-button::before {
   content: "";
@@ -328,7 +327,7 @@ input::placeholder {
 .text-content h3 {
   font-size: 1.5rem;
   font-weight: 500;
-  color: #1D1D1D;
+  color: #1d1d1d;
   margin-bottom: 10px;
 }
 
@@ -476,7 +475,7 @@ input::placeholder {
   margin: 0 0 15px;
 }
 
-.project-info button {
+.btn {
   width: 100%;
   background-color: #0948b4;
   color: #fff;
@@ -559,7 +558,6 @@ input::placeholder {
   margin: 5px 0;
 }
 
-
 .experience-info button {
   background-color: #0948b4;
   color: #fff;
@@ -617,9 +615,6 @@ input::placeholder {
   border-radius: 50%;
 }
 
-
-
-
 /* .timeline-item:first-child {
   display: none;
 
@@ -628,8 +623,6 @@ input::placeholder {
   display: none;
 
 } */
-
-
 
 .timeline-title {
   font-size: 40px;
